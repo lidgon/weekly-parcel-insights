@@ -1,4 +1,4 @@
-﻿"""Mini project: Weekly parcel insights (beginner-friendly).
+﻿"""Mini project: Weekly parcel insights.
 
 Goal:
 - analyze weekly parcel volumes using Python loops and conditions
